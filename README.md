@@ -8,7 +8,7 @@
 -> Choose an API for data fetching 
 ->Used useState and useEffect hook for state manangment and async calls to api
 ->Used Material UI for display grids and search bar
-
+<img src="https://github.com/Akarsh10092/Customer-Info-Task1/blob/main/screenshots/home.png?raw=true" alt="akarsh10092" />
 </p>
 <h3 align="center">Improvments that can be made</h3>
 <p>
